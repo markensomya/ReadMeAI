@@ -6,14 +6,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.0+-red.svg)
 ![LangChain](https://img.shields.io/badge/LangChain-Latest-green.svg)
 
-## ✨ Features
 
-- 📄 **PDF Upload** - Upload any PDF document through a beautiful web interface
-- 🧠 **AI-Powered Q&A** - Ask questions and get accurate, context-aware answers
-- 🎨 **Beautiful UI** - Modern purple gradient design with smooth interactions
-- ⚡ **Fast Retrieval** - Efficient vector search using ChromaDB
-- 🔍 **Smart Search** - MMR (Maximal Marginal Relevance) ensures diverse, relevant results
-- 🤖 **Mistral AI** - Powered by Mistral's state-of-the-art language models
 
 ## 🚀 Getting Started
 
@@ -61,7 +54,7 @@ Then open http://localhost:8501 in your browser.
 python main.py
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ReadMeAI/
@@ -76,7 +69,7 @@ ReadMeAI/
 └── chroma_db/            # Vector database (auto-generated)
 ```
 
-## 🛠️ How It Works
+##  How It Works
 
 I implemented a complete RAG pipeline:
 
@@ -87,7 +80,7 @@ I implemented a complete RAG pipeline:
 5. **Smart Retrieval**: MMR algorithm retrieves relevant and diverse context
 6. **Answer Generation**: Mistral-small generates accurate answers based on retrieved context
 
-## 🔧 Technologies I Used
+## Technologies I Used
 
 - **LangChain** - Framework for building LLM applications
 - **ChromaDB** - Vector database for semantic search
@@ -95,7 +88,7 @@ I implemented a complete RAG pipeline:
 - **Streamlit** - Beautiful, interactive web interface
 - **PyPDF** - PDF document processing
 
-## 📝 How to Use
+## How to Use
 
 ### Web Interface (app.py)
 1. Launch the app with `streamlit run app.py`
@@ -111,7 +104,7 @@ I implemented a complete RAG pipeline:
 4. Type your questions and press Enter
 5. Type `0` to exit
 
-## 🎨 UI Highlights
+## UI Highlights
 
 I designed the interface with:
 - Beautiful purple gradient background
@@ -120,18 +113,18 @@ I designed the interface with:
 - Responsive design
 - Semi-transparent glass-effect answer boxes
 
-## 🤝 Contributing
+## Contributing
 
 I welcome contributions! Feel free to:
 - Open issues for bugs or feature requests
 - Submit pull requests
 - Suggest improvements
 
-## 📄 License
+## License
 
 This project is open source and available under the MIT License.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Mistral AI for their powerful language models
 - LangChain community for the excellent framework

@@ -1,6 +1,6 @@
 # 📚 ReadMeAI
 
-**Your AI-Powered Reading Companion** - I built this RAG (Retrieval-Augmented Generation) application to help you interact with PDF documents using AI. Upload any PDF and ask questions to get instant, intelligent answers!
+I built this RAG (Retrieval-Augmented Generation) application to help you interact with PDF documents using AI. Upload any PDF and ask questions to get instant, intelligent answers!
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.0+-red.svg)
@@ -8,7 +8,7 @@
 
 
 
-## 🚀 Getting Started
+
 
 ### Prerequisites
 
